@@ -1,0 +1,9 @@
+{
+  "mimeTypes": {
+    ".js": "text/jsx",
+    ".mjs": "text/jsx",
+    ".jsx": "text/jsx",
+    ".tsx": "text/jsx",
+    ".ts": "text/jsx"
+  }
+}
