@@ -1,4 +1,4 @@
-name: Deploy static content to Pages
+name: Portfolio Deployment to GitHub Pages
 on:
   push:
     branches: ['master']
