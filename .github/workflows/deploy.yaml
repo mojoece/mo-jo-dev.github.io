@@ -1,7 +1,10 @@
-name: Portfolio Deployment to GitHub Pages
+name: Portfolio Test Deploy to GitHub Pages
 on:
   push:
     branches: ['master']
+  pull_request:
+    branches: ['master']
+
   workflow_dispatch:
 
 permissions:
@@ -49,6 +52,6 @@ jobs:
         with:
           path: './dist'
 
-      - name: Portfolio deployment to GitHub Pages
+      - name: Test deployment to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
