@@ -26,25 +26,13 @@ import linux from "./tech/linux.png";
 import photoshop from "./tech/photoshop.png";
 import nodejs from "./tech/nodejs.png";
 
-import TEQNEIA from "./company/TEQNEIA.jpg";
-import EJADA from "./company/EJADA.jpg";
 import amr from "./company/Allied_Market_Research.png";
 import cf from "./company/cf.png";
-import bld from "./company/bld.jpg";
 import hiprotech from "./company/hiprotech.png";
 import infits from "./company/infits.jpeg"
 import wdc from "./company/nit_sk.png"
 import foxaisr from"./company/foxaisr.png"
 
-import yummy_front from "./yummy_front.png";
-import yummy_back from "./yummy_back.png";
-import reddit from "./reddit.png";
-import Hand_Gesture from "./Hand-Gesture-Recognition.png";
-import Grades_auto_filler from "./Grades-auto-filler.png";
-import flash from "./flash.jpg"
-import captainHook from "./Captain-Hook.gif";
-import operatingSystem from "./Operating-System-Scheduler.png";
-import Flappy_Bird from "./Flappy-Bird-Game.gif";
 import Object_Det from "./object_det.jpeg";
 import airline_ticket from "./airline-ticket.png";
 import c2 from "./c2.png";
@@ -100,26 +88,14 @@ export {
   php,
   linux,
   cpp,
-  TEQNEIA,
-  EJADA,
   hiprotech,
   amr,
   infits,
   wdc,
   cf,
   foxaisr,
-  yummy_front,
-  yummy_back,
-  reddit,
-  Hand_Gesture,
-  bld,
   LinkedIn,
   Gmail,
-  Grades_auto_filler,
-  flash,
-  captainHook,
-  operatingSystem,
-  Flappy_Bird,
   Microsoft,
   Dell,
   resume,
