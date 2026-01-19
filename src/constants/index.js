@@ -40,7 +40,9 @@ import {
   tinkercad,
   agegenderf,
   agegenderb,
-  ecommerce
+  ecommerce,
+  mu_sigma,
+  capgemini
 } from "../assets";
 
 export const socialLinks = [
@@ -113,7 +115,7 @@ const services = [
     icon: web,
   },
   {
-    title: "Full Stack Developer",
+    title: "Business Analyst",
     icon: mobile,
   },
   {
@@ -187,11 +189,33 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Senior Software Engineer",
+    company_name: "Capgemini",
+    icon: capgemini,
+    iconBg: "#fff",
+    date: "Nov 2025 - Current",
+    points: [
+      "Perform data analysis and validation using SQL, Excel, and Python to support decision-making and requirement refinement."
+      ,"Build and interpret dashboards/reports using Power BI, Tableau, and Qlik Sense for business insights."
+      ],
+  },
+  {
+    title: "Decision Scientist Trainee",
+    company_name: "MU Sigma",
+    icon: mu_sigma,
+    iconBg: "#fff",
+    date: "Apr 2025 - June 2025",
+    points: [
+      "I learned essential technologies and skills required in the field of Data Science, such as SQL, Python, Statistics, and more.",
+      "Built understanding of core machine learning concepts such as supervised and unsupervised learning, model training, and evaluation."
+      ],
+  },
+  {
     title: "Member - Technical & UI/UX Team",
     company_name: "Web Development Cell, NIT Sikkim",
     icon: wdc,
     iconBg: "#fff",
-    date: "Feb 2023 - current",
+    date: "Feb 2023 - June 2025",
     points: [
       "Redesigned the Institute Website: Overhauled the website using HTML, CSS, JavaScript, and PHP to enhance user experience and navigation.",
       "Centralized Resource Access: Streamlined access to key resources, including academic information, library services, placement portals, and event updates.",

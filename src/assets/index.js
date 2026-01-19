@@ -65,7 +65,12 @@ import html_Certificate from "./Certificates/html.jpg";
 import javascript_Certificate from "./Certificates/javascript.jpg";
 import photoshop_Certificate from "./Certificates/photoshop.jpg";
 
+import mu_sigma from "./mu_sigma.jpg";
+import capgemini from "./capgemini.png";
+
 export {
+  mu_sigma,
+  capgemini,
   logo,
   backend,
   creator,
