@@ -49,7 +49,13 @@ const About = () =>
         variants={ fadeIn( "", "", 0.1, 1 ) }
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      Dynamic Full-Stack Developer with hands-on expertise in Web Development, AI-Powered Applications, and DevOps Practices, driven by a passion for creating scalable, efficient, and impactful solutions. Inspired by Bosch's legacy of innovation and commitment to advancing technology for a better future, I am eager to contribute my technical skills and collaborative mindset to drive impactful projects, enhance operational efficiency, and deliver exceptional value to customers worldwide.  
+      I work at the intersection of Data, Analytics, and AI, with experience in Business Intelligence, data analysis, Generative AI, and Agentic AI.
+<br></br>
+<br></br>
+My technical toolkit includes Power BI, Tableau, SQL, Python, DAX, and Excel, along with technologies and concepts around RAG, Knowledge Graphs, Semantic Layers, APIs, and cloud infrastructure.
+<br></br>
+<br></br>
+I enjoy solving complex problems, learning new technologies, and finding practical ways to make data more accessible, intelligent, and useful.  
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

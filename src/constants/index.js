@@ -111,19 +111,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Software Developer",
+    title: "Data & AI",
     icon: web,
   },
   {
-    title: "Business Analyst",
+    title: "Business Intelligence",
     icon: mobile,
   },
   {
-    title: "Machine Learning Engineer",
+    title: "Generative & Agentic AI",
     icon: creator,
   },
   {
-    title: "Devops Enthusiast",
+    title: "Problem Solver",
     icon: devops
   }
 ];
@@ -195,9 +195,10 @@ const experiences = [
     iconBg: "#fff",
     date: "Nov 2025 - Current",
     points: [
-      "Perform data analysis and validation using SQL, Excel, and Python to support decision-making and requirement refinement."
-      ,"Build and interpret dashboards/reports using Power BI, Tableau, and Qlik Sense for business insights."
-      ],
+      "Working across Data Analytics and Business Intelligence, using SQL, Python and Excel for data analysis, validation and requirement refinement."
+      ,"Building interactive dashboards and reports using Power BI, Tableau and Qlik Sense to support business insights."
+      ,"Working with modern Data & AI technologies to explore intelligent analytics and enterprise AI solutions."
+    ],
   },
   {
     title: "Decision Scientist Trainee",

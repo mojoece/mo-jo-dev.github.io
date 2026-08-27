@@ -21,8 +21,7 @@ const Hero = () =>
             Hi, I'm <span className='text-[#915EFF]'>Mohit Joshi</span>
           </h2>
           <p className={ `${styles.heroSubText} mt-2 text-white-100` }>
-            I am a B.Tech. undergraduate in Electronics & Communication <br className='sm:block hidden' />Engineering  
-            from NIT Sikkim
+          Data & AI Professional building intelligent solutions with  <br className='sm:block hidden' />data, analytics, and AI.
           </p>
           <div className={ `${styles.heroSubText} mt-8 text-white flex gap-5 flex-wrap` }>
             { socialLinks.map( ( social )  =>

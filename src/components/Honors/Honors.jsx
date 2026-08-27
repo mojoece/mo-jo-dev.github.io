@@ -17,14 +17,10 @@ const Honors = () =>
             </div>
 
             <div className='w-full flex'>
-                <p
-                    variants={ fadeIn( "", "", 0.1, 1 ) }
-                    className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
-                >
-                    This section highlights key accomplishments that demonstrate your expertise and dedication. Each achievement is a testament to your ability to overcome challenges and drive results.
-                </p>
             </div>
+            
             <motion.div variants={ textVariant() } className="bg-tertiary  p-5 rounded-2xl mt-4 ">
+                
                 <div className="mb-4 flex gap-2 items-center">
                     <p className={ `${styles.heroSubText} text-white   font-bold` }>CodeRush 2023 by Algo University</p>
                     <div className='w-fit text-[15px] font-small green-pink-gradient p-[1px] rounded-[16px] shadow-card'>
